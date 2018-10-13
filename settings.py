@@ -14,7 +14,7 @@ qiwi_token ='тут киви токен'
 ya_number=тут твой яндекс кошелек
 ya_token=''
 
-telegram_token='569622420:AAGJXvjWHvdVTnfhOS3GcvExt43bdeHgECM'
+telegram_token='658374451:AAGhl6rcfaC8tlTOISWwiHrvLlT4JpILkio'
 
 
 
@@ -29,7 +29,7 @@ tutorial_url = 'http://telegra.ph/'
 
 
 
-WEBHOOK_HOST = '46.101.75.213'
+WEBHOOK_HOST = '34.251.216.39'
 WEBHOOK_PORT = 88
 WEBHOOK_LISTEN = '0.0.0.0'
 
